@@ -1,0 +1,6 @@
+{
+  "name": "Portafolio de Desarrolladora",
+  "description": "Landing page moderna y responsiva para el portafolio personal de una desarrolladora frontend React y Mobile, con secciones de inicio, sobre mí, habilidades, proyectos y contacto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
